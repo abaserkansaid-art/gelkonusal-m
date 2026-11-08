@@ -1,0 +1,2 @@
+# gelkonusal-m
+gel konuşalım
