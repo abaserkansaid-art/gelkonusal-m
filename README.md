@@ -1,2 +1,2 @@
-# gelkonusal-m
+# gelkonusalim
 gel konuşalım
